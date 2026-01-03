@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Digambar
 
-<!--
-**digambarrajaram/digambarrajaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud-native software engineer who builds **end-to-end systems** —  
+from application logic to cloud infrastructure and delivery pipelines.
 
-Here are some ideas to get you started:
+I work across **backend, frontend, infrastructure, and automation**,  
+choosing technologies based on problem context rather than preference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Work On
+- Backend systems & APIs
+- Frontend applications when required
+- Cloud infrastructure & deployment automation
+- CI/CD pipelines & reliability
+- Learning and applying new technologies as needed
+
+---
+
+## 🏗️ Engineering Philosophy
+- Problem-first, tool-second
+- Automation over manual effort
+- Operate what you build
+- Clear documentation & system design
+
+---
+
+## 🛠️ Current Tools (Contextual)
+AWS • Terraform • Docker • GitHub Actions • FastAPI • Next.js • Linux
+
+> Tools change. Engineering principles don’t.
