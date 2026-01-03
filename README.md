@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Digambar
 
-Cloud-native software engineer who builds **end-to-end systems** —  
+Cloud-native software engineer who builds **end-to-end systems** —
 from application logic to cloud infrastructure and delivery pipelines.
 
-I work across **backend, frontend, infrastructure, and automation**,  
+I work across **backend, frontend, infrastructure, and automation**,
 choosing technologies based on problem context rather than preference.
 
 ---
