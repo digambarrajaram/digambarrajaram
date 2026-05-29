@@ -29,6 +29,6 @@ choosing technologies based on problem context rather than preference.
 ---
 
 ## 🛠️ Current Tools (Contextual)
-AWS • Terraform • Docker • GitHub Actions • FastAPI • Next.js • Linux
+AWS • Terraform • Docker • Kubernetes • GitHub Actions • Jenkins • Ansible • Linux • Amazon Bedrock
 
 > Tools change. Engineering principles don’t.
