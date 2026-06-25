@@ -58,6 +58,6 @@ Observability  ELK Stack · Prometheus · Grafana · ElastAlert2 · CloudWatch �
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/digambar-rajaram-8371b51a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/digambarrajaram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:digambarrajaram2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
