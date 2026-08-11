@@ -56,12 +56,8 @@ Observability  ELK Stack · Prometheus · Grafana · ElastAlert2 · CloudWatch �
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digambarrajaram&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digambarrajaram&layout=compact&hide_border=true"/>
-</p>
+📊 GitHub Stats
+<p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=digambarrajaram&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digambarrajaram&layout=compact&hide_border=true&cache_seconds=1800"/> </p> <!-- Fallback if the above doesn't render (Vercel free-tier rate limits are common): <p align="left"> <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Top_Language-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/github/followers/digambarrajaram?style=flat&label=Followers"/> </p> -->
 
 ---
 
@@ -74,4 +70,4 @@ Observability  ELK Stack · Prometheus · Grafana · ElastAlert2 · CloudWatch �
 
 ---
 
-<p align="left"><i>Open to SRE / AI Platform Engineer roles — Bengaluru, Mumbai, Hyderabad, Delhi NCR, or remote.</i></p>
+<p align="left"><i>Open to SRE / AI Platform Engineer roles — Pune, Bengaluru, Mumbai, Hyderabad, Delhi NCR, or remote.</i></p>
