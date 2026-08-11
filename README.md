@@ -1,8 +1,15 @@
 # Hi, I'm Digambar Rajaram 👋
 
-**DevOps & AI Engineer** — I build at the intersection of cloud infrastructure and agentic AI systems.
+**SRE & AI Platform Engineer** — I build at the intersection of cloud infrastructure and agentic AI systems.
 
 2+ years in production at Protean eGov Technologies managing 1,500+ VMs, EKS clusters, and CI/CD pipelines for India's largest government platforms (NPS, PAN, TIN, eSign — 300M+ citizens). Now shipping LLM-powered, multi-agent systems on top of that infra foundation.
+
+<p align="left">
+  <a href="https://digambarrajaram.cloud"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/digambarrajaram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/digambarrajaram"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:digambarrajaram2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -26,7 +33,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Kubernetes & Cloud Cost Copilot](#) | Multi-agent system that diagnoses K8s incidents and reviews Terraform PRs for cost/security risk. Custom MCP servers for K8s and infra tooling. Eval harness + CI gating. | LangGraph · Bedrock · MCP · EKS · Terraform |
+| [AWS Terraform Drift Reconciler](https://github.com/digambarrajaram/AWS-Terraform-Drift-Reconciler) | Automated drift-detection pipeline — LLM agent classifies Terraform plan drift vs. live AWS state, opens GitHub PRs with proposed fixes. Trivy security gate, cost estimation, rollback, multi-account support. | LangGraph · Bedrock (Nova Pro) · Terraform · Trivy · Supabase |
+| [Kubernetes & Cloud Cost Copilot](https://github.com/digambarrajaram/k8s-cost-copilot) | Multi-agent system that diagnoses K8s incidents and reviews Terraform PRs for cost/security risk. Custom MCP servers for K8s and infra tooling. Eval harness + CI gating. | LangGraph · Bedrock · MCP · EKS · Terraform |
 | [ShopAssist AI](https://aishoppingassistant-aofjpf74t-digambar-s-projects.vercel.app/) | Production AI shopping assistant with 5-layer guardrail stack, LangChain tool-calling on Bedrock, session persistence, and LangSmith tracing | LangChain · Bedrock · FastAPI · React · Supabase |
 | [NutriBlood AI](https://nutriblood-ai-vercel-1-1yimalhb9-digambar-s-projects.vercel.app/) | Extracts biomarkers from blood report text/images via LLM and returns personalised Indian diet recommendations as structured JSON | Groq · FastAPI · Jinja2 |
 | [MenuMind AI](https://menumind-ai-ylpc.onrender.com/) | Generates restaurant names, brand concepts, and curated menus via LangChain + Groq pipeline | LangChain · Groq · Streamlit |
@@ -48,6 +56,15 @@ Observability  ELK Stack · Prometheus · Grafana · ElastAlert2 · CloudWatch �
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digambarrajaram&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digambarrajaram&layout=compact&hide_border=true"/>
+</p>
+
+---
+
 ## 📌 Engineering Principles
 
 - **Problem-first, tool-second** — pick the right abstraction, not the familiar one
@@ -57,7 +74,4 @@ Observability  ELK Stack · Prometheus · Grafana · ElastAlert2 · CloudWatch �
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com/in/digambarrajaram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:digambarrajaram2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+<p align="left"><i>Open to SRE / AI Platform Engineer roles — Bengaluru, Mumbai, Hyderabad, Delhi NCR, or remote.</i></p>
